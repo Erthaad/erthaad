@@ -59,9 +59,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/erthaad/erthaad/output/snake.svg" alt="Snake animation" />
-
-###
