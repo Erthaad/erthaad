@@ -23,7 +23,7 @@
 
 ## 🌍 Connect with Me
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/jorgepardavilaarencibia" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn logo"  />
   </a>
@@ -65,4 +65,3 @@
   <strong>✨ Thanks for visiting my profile! Feel free to explore my repositories and connect! ✨</strong>
 </div>
 </div>
-
