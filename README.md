@@ -15,7 +15,7 @@
 ## 🔧 Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,pymysql,nginx,php,apache" height="40" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,html,py,mysql,nginx,php" height="40" alt="tech stack" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
 </div>
 
