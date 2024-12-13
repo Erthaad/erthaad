@@ -23,20 +23,20 @@
 
 ## 🌍 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/jorgepardavilaarencibia" target="_blank" style="margin: 0; padding: 0;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0;">
+  <a href="https://www.linkedin.com/in/jorgepardavilaarencibia" target="_blank" style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="LinkedIn logo"/>
   </a>
-  <a href="https://www.twitch.tv/IAmErthad" target="_blank" style="margin: 0; padding: 0;">
+  <a href="https://www.twitch.tv/IAmErthad" target="_blank" style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="42" height="30" alt="Twitch logo"/>
   </a>
-  <a href="https://www.youtube.com/c/Erthad" target="_blank" style="margin: 0; padding: 0;">
+  <a href="https://www.youtube.com/c/Erthad" target="_blank" style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="YouTube logo"/>
   </a>
-  <a href="https://discord.gg/edgehosting" target="_blank" style="margin: 0; padding: 0;">
+  <a href="https://discord.gg/edgehosting" target="_blank" style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="Discord logo"/>
   </a>
-  <a href="https://www.paypal.com/paypalme/edgehostinges" target="_blank" style="margin: 0; padding: 0;">
+  <a href="https://www.paypal.com/paypalme/edgehostinges" target="_blank" style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="42" height="30" alt="PayPal logo"/>
   </a>
 </div>
